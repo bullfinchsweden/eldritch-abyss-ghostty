@@ -1,6 +1,8 @@
 # Eldritch Abyss Ghostty
 The Eldritch Abyss (Eldritch Darker) color scheme for Ghostty.
 
+<img width="120" height="120" alt="Octopus" src="https://github.com/user-attachments/assets/5b603bda-50bc-4361-a4d1-add59ef3f3dc" /><br/>
+
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
 * [Eldritch color scheme](https://github.com/eldritch-theme/eldritch)<br/>
