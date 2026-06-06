@@ -7,6 +7,8 @@ The Eldritch Abyss (Eldritch Darker) color scheme for Ghostty.
 
 * [Eldritch color scheme](https://github.com/eldritch-theme/eldritch)<br/>
 
+Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
+
 *Eldritch Abyss*
 
 <img width="260" height="83" alt="EldritchAbyssColors1" src="https://github.com/user-attachments/assets/340efdcf-f239-4604-99c5-bd275b949daf" /><br/>
