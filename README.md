@@ -11,7 +11,7 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Eldritch Abyss*
 
-<img width="693" height="219" alt="EldritchAbyssColors1" src="https://github.com/user-attachments/assets/176ce69c-0cf6-46ab-b1b1-c6c56d591e8f" /><br/>
+<img width="264" height="85" alt="EldritchAbyssColors1" src="https://github.com/user-attachments/assets/bfb66142-29d4-45d2-a628-1f8aa7039987" /><br/>
 
 <img width="260" height="83" alt="EldritchAbyssColors1" src="https://github.com/user-attachments/assets/340efdcf-f239-4604-99c5-bd275b949daf" /><br/>
 
