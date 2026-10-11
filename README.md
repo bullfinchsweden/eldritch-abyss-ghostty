@@ -1,4 +1,4 @@
-# Eldritch Abyss Ghostty
+# Eldritch Abyss Ghostty 🐙
 The Eldritch Abyss (Eldritch Darker) color scheme for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
